@@ -1,0 +1,14 @@
+css==0.1
+Django==1.11.2
+django-bootstrap==0.2.4
+django-css==2.3.1
+django-html==0.1.0
+django-html5==1.0.0
+django-markdown-deux==1.0.5
+html==1.16
+html5==0.0.9
+javascript==2015.32.59
+markdown2==2.3.4
+pytz==2017.2
+six==1.10.0
+webencodings==0.5.1
