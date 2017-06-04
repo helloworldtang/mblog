@@ -7,6 +7,6 @@
 {% endblock %}
 {% block content %}
 <p style="font-family:宋体;font-size:12pt;line-height:1.5;">
-    {{ post.body|linebreaksbr }}
+    {{ post.body|safe}}
 </p>
 {% endblock %}
